@@ -1,9 +1,21 @@
 *Potential indicators and proxy for 
 
 >Decentralization process
--
--
--
+Decentralization typically defined in public planning, management and decision making as the transfer of authority and power from higher to lower levels of governing or from national to sub-national levels(Rondinelli 1983;Collins and green 1994;mills 1994).
+it has different characterstics for different writers as describe as delegation,devaluation,de-concentration,and privatization of responsibility and authority of tasks to lower level of administration.
+Decentralization system involves two different measures: level and degree .decentralizations may occur at system or organization level(Mintzberg(1979).
+Degree can be defined as the distribution of power over the decision made inside an organization.
+          Indicators for decentralization
+As defined above, decentralization is a complex multiple phenomenon, encompassing a number of political, fiscal and administrative dimension, it is difficult to capture the process and quantify for empirical study. So it leads to a challenge for
+measuring the outcome of decentralization on health provision system. 
+Despite a number of theoretical frameworks, few try to measure the level and the extent of decentralization based on standard space ma
+
+Possible Proposed indicators,                                                                                                
+-fiscal approach Share of local income/ spending as a proportion of national income/spending  
+-major decentralization healthy program (dummy variable pre and post period)
+-citizen participation (high, medium or low)
+-governance rules on healthy offices(high,medium,or low)
+                                                                                                                                       
 
 
 >health provision system
